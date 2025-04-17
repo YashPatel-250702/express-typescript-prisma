@@ -1,0 +1,8 @@
+
+npm init -y
+npm install dotenv
+npm install typescript @types/node @types/express ts-node-dev --save-dev  //default express version is 5
+
+npm install @types/express@4 --save-dev //
+
+npm install --save-dev ts-node
